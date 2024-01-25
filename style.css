@@ -1,0 +1,16 @@
+header {
+  text-align: center;
+}
+
+.member-card {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+}
+
+.member-card img {
+  width: 10%;
+  height: auto;
+  margin-bottom: 10px;
+}
